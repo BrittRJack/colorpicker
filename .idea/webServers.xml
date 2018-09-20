@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3b9e302f-da7a-421d-a432-35f6df58f241" name="colorpicker" url="https://bootcamp-coders.cnm.edu/~bjack2/colorpicker">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/bjack2/public_html/colorpicker" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
